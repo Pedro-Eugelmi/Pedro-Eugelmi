@@ -25,5 +25,3 @@
 
 ![Pedro-Eugelmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Eugelmi&show_icons=true&theme=dracula) <br>
 
-[![Pedro-Eugelmi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pedro-Eugelmi)](https://github.com/Pedro-Eugelmi/github-readme-stats)
-
