@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Pedro Eugelmi 👋
 👨‍💻 Programador em formação <br>
-📚 Tecnologia em Sistemas para Internet - IFSP
+📚 Tecnologia em Sistemas para Internet - IFSP <br>
 📝 Estudando React
 <br>
 
