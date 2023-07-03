@@ -9,7 +9,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroeugelmi/)
 <br>
 
- ##Tecnologias:
+ ## Tecnologias:
 
 
 <div>
@@ -24,6 +24,5 @@
 
 
 ![Pedro-Eugelmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Eugelmi&show_icons=true&theme=dracula)
+[![Pedro-Eugelmi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Pedro-Eugelmi/github-readme-stats)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Eugelmi&hide_progress=false)
