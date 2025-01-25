@@ -17,11 +17,10 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  
-  
 </div>
+<br>
 
 
-
-![Pedro-Eugelmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Eugelmi&show_icons=true&theme=dracula) <br>
+![Pedro-Eugelmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Eugelmi&show_icons=true&theme=dracula) <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Eugelmi&layout=pie&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
